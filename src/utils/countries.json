@@ -1,0 +1,328 @@
+﻿{
+    "countries": [
+        {
+            "portuguese": "Afeganistão",
+            "english": "Afghanistan"
+        },
+        {
+            "portuguese": "Angola",
+            "english": "Angola"
+        },
+        {
+            "portuguese": "Argentina",
+            "english": "Argentina"
+        },
+        {
+            "portuguese": "Austrália",
+            "english": "Australia"
+        },
+        {
+            "portuguese": "Áustria",
+            "english": "Austria"
+        },
+        {
+            "portuguese": "Bélgica",
+            "english": "Belgium"
+        },
+        {
+            "portuguese": "Bolívia",
+            "english": "Bolivia"
+        },
+        {
+            "portuguese": "Brasil",
+            "english": "Brazil"
+        },
+        {
+            "portuguese": "Bulgária",
+            "english": "Bulgaria"
+        },
+        {
+            "portuguese": "Canadá",
+            "english": "Canada"
+        },
+        {
+            "portuguese": "China",
+            "english": "China"
+        },
+        {
+            "portuguese": "Chile",
+            "english": "Chile"
+        },
+        {
+            "portuguese": "Colômbia",
+            "english": "Colombia"
+        },
+        {
+            "portuguese": "Croácia",
+            "english": "Croatia"
+        },
+        {
+            "portuguese": "Cuba",
+            "english": "Cuba"
+        },
+        {
+            "portuguese": "Dinamarca",
+            "english": "Denmark"
+        },
+        {
+            "portuguese": "República Dominicana",
+            "english": "Dominican Republic"
+        },
+        {
+            "portuguese": "Equador",
+            "english": "Ecuador"
+        },
+        {
+            "portuguese": "Egito",
+            "english": "Egypt"
+        },
+        {
+            "portuguese": "Inglaterra",
+            "english": "England"
+        },
+        {
+            "portuguese": "Finlândia",
+            "english": "Finland"
+        },
+        {
+            "portuguese": "França",
+            "english": "France"
+        },
+        {
+            "portuguese": "Alemanha",
+            "english": "Germany "
+        },
+        {
+            "portuguese": "Grécia",
+            "english": "Greece "
+        },
+        {
+            "portuguese": "Guiné",
+            "english": "Guinea"
+        },
+        {
+            "portuguese": "Haiti",
+            "english": "Haiti"
+        },
+        {
+            "portuguese": "Holanda",
+            "english": "Holland"
+        },
+        {
+            "portuguese": "Hungria",
+            "english": "Hungary "
+        },
+        {
+            "portuguese": "Islândia",
+            "english": "Iceland"
+        },
+        {
+            "portuguese": "Índia",
+            "english": "India"
+        },
+        {
+            "portuguese": "Indonésia",
+            "english": "Indonesia"
+        },
+        {
+            "portuguese": "Irã",
+            "english": "Iran"
+        },
+        {
+            "portuguese": "Irlanda",
+            "english": "Ireland"
+        },
+        {
+            "portuguese": "Israel",
+            "english": "Israel"
+        },
+        {
+            "portuguese": "Itália",
+            "english": "Italy"
+        },
+        {
+            "portuguese": "Jamaica",
+            "english": "Jamaica"
+        },
+        {
+            "portuguese": "Japão",
+            "english": "Japan"
+        },
+        {
+            "portuguese": "Quênia",
+            "english": "Kenya"
+        },
+        {
+            "portuguese": "Kuwait",
+            "english": "Kwait"
+        },
+        {
+            "portuguese": "Letônia",
+            "english": "Latvia"
+        },
+        {
+            "portuguese": "Líbano",
+            "english": "Lebanon"
+        },
+        {
+            "portuguese": "Lituânia",
+            "english": "Lithuania"
+        },
+        {
+            "portuguese": "Líbia",
+            "english": "Lybia"
+        },
+        {
+            "portuguese": "Malásia",
+            "english": "Malaysia"
+        },
+        {
+            "portuguese": "Malta",
+            "english": "Malta "
+        },
+        {
+            "portuguese": "México",
+            "english": "Mexico"
+        },
+        {
+            "portuguese": "Marrocos",
+            "english": "Morocco"
+        },
+        {
+            "portuguese": "Moçambique ",
+            "english": "Mozambique"
+        },
+        {
+            "portuguese": "Namíbia",
+            "english": "Namibia"
+        },
+        {
+            "portuguese": "Nova Zelândia",
+            "english": "New Zealand"
+        },
+        {
+            "portuguese": "Nigéria",
+            "english": "Nigeria"
+        },
+        {
+            "portuguese": "Coréia do Norte",
+            "english": "North Korea"
+        },
+        {
+            "portuguese": "Noruega",
+            "english": "Norway"
+        },
+        {
+            "portuguese": "Palestina",
+            "english": "Palestine"
+        },
+        {
+            "portuguese": "Paquistão",
+            "english": "Pakistan"
+        },
+        {
+            "portuguese": "Panamá",
+            "english": "Panama"
+        },
+        {
+            "portuguese": "Paraguai",
+            "english": "Paraguay"
+        },
+        {
+            "portuguese": "Peru",
+            "english": "Peru"
+        },
+        {
+            "portuguese": "Polônia",
+            "english": "Poland"
+        },
+        {
+            "portuguese": "Portugal",
+            "english": "Portugal"
+        },
+        {
+            "portuguese": "Catar",
+            "english": "Qatar"
+        },
+        {
+            "portuguese": "Rússia",
+            "english": "Russia"
+        },
+        {
+            "portuguese": "Ruanda",
+            "english": "Rwanda"
+        },
+        {
+            "portuguese": "Escócia",
+            "english": "Scotland"
+        },
+        {
+            "portuguese": "Singapura",
+            "english": "Singapore"
+        },
+        {
+            "portuguese": "Eslováquia",
+            "english": "Slovakia"
+        },
+        {
+            "portuguese": "África do Sul",
+            "english": "South Africa"
+        },
+        {
+            "portuguese": "Espanha",
+            "english": "Spain "
+        },
+        {
+            "portuguese": "Suécia",
+            "english": "Sweden "
+        },
+        {
+            "portuguese": "Suíça",
+            "english": "Switzerland"
+        },
+        {
+            "portuguese": "Síria",
+            "english": "Syria"
+        },
+        {
+            "portuguese": "Tailândia",
+            "english": "Thailand"
+        },
+        {
+            "portuguese": "Turquia",
+            "english": "Turkey"
+        },
+        {
+            "portuguese": "Ucrânia",
+            "english": "Ukraine"
+        },
+        {
+            "portuguese": "Uruguai",
+            "english": "Uruguay"
+        },
+        {
+            "portuguese": "Reino Unido",
+            "english": "United Kingdom"
+        },
+        {
+            "portuguese": "Estados Unidos da América",
+            "english": "United States of America"
+        },
+        {
+            "portuguese": "Venezuela",
+            "english": "Venezuela"
+        },
+        {
+            "portuguese": "Vietnã",
+            "english": "Vietnam"
+        },
+        {
+            "portuguese": "Iêmen",
+            "english": "Yemen "
+        },
+        {
+            "portuguese": "Zâmbia",
+            "english": "Zambia"
+        }
+    ]
+}
