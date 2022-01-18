@@ -2,8 +2,8 @@ import React from "react";
 import * as S from "./card.styled";
 
 interface Props {
-  value: number;
-  title: string;
+  value?: number;
+  title?: string;
   type: string;
 }
 
@@ -13,6 +13,7 @@ function Card({ value, title, type }: Props) {
       <S.Card color={type}>
         <S.Value>{value}</S.Value>
         <S.Title>{title}</S.Title>
+        <S.ColorBar color={type} />
       </S.Card>
     </>
   );

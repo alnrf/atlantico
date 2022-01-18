@@ -1,6 +1,6 @@
 .App {
   background: rgb(255, 255, 255) url("../src/assets/images/background.jpg")
-    no-repeat fixed center;
+    repeat fixed center;
 
   min-height: 100vh;
 }
